@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 // Cowbell #3 (die andere cowbells zitten in het sourcemapje-java-ding...)
+// Cowbell #a (wat als ik in de MoreCowbell-branch nu zomaar een ander telling ga gebruiken, dan moet ik toch een conflict krijgen...)
 
 /*
 EEN EXTRA VOORBEELD BIJ §7.6 VAN BLUEJ EDITIE 6: MULTI-DIMENSIONALE ARRAYS;
