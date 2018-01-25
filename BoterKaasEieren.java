@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 // Cowbell #3 (die andere cowbells zitten in het sourcemapje-java-ding...)
+// Cowbell #4
 
 /*
 EEN EXTRA VOORBEELD BIJ §7.6 VAN BLUEJ EDITIE 6: MULTI-DIMENSIONALE ARRAYS;
