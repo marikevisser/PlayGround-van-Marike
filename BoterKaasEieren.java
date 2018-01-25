@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 // Cowbell #3 (die andere cowbells zitten in het sourcemapje-java-ding...)
+// Cowbell #4
 
 // Cowbell #5 (zou hij het pakken als ik regel 5 leeg laat (voor cowbell #4 uit EvenMoreCowbells) en dan regel 6 vul?)
 // Cowbell #a (wat als ik in de MoreCowbell-branch nu zomaar een ander telling ga gebruiken, dan moet ik toch een conflict krijgen...)
