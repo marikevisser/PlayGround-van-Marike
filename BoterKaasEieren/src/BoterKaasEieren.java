@@ -8,6 +8,10 @@ import java.util.Scanner;
 import sun.audio.AudioPlayer;
 import sun.audio.AudioStream;
 
+// More Cowbell #1
+// More Cowbell #2
+
+
 /*
 EEN EXTRA VOORBEELD BIJ §7.6 VAN BLUEJ EDITIE 6: MULTI-DIMENSIONALE ARRAYS;
 
